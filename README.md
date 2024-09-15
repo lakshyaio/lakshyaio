@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on ****
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 🤝 I’m looking for help with ****
+- 🤝 I’m looking for help with **Blockchain Technology**
 
-- 💬 Ask me about ****
+- 💬 Ask me about **Software Developement**
 
-- 📫 How to reach me **example@gmail.com**
+- 📫 How to reach me **lakshyagupta2807@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
 
